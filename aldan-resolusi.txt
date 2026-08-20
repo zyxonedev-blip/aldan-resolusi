@@ -4,3 +4,4 @@ Resolusi Aldan :
 3.Belajar Git dan Github
 4.Menghatamkan menjadi FrontEnd sejati
 5.mulai belajar Database
+6.Belajar bahasa pemrograman backend seperti java, pyhton, dll
