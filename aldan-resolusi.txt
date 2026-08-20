@@ -2,6 +2,6 @@ Resolusi Aldan :
 1.Mendalami Javascript terutama DOM, OOP, API, DLL
 2.Belajar menggunakan React JS
 3.Belajar Git dan Github
-4.Menghatamkan menjadi FrontEnd sejati
-5.mulai belajar Database
-6.Belajar bahasa pemrograman backend seperti java, pyhton, dll
+4.mulai belajar Database
+5.Belajar bahasa pemrograman backend seperti java, pyhton, dll
+6.Hatamkan dan pahami bahasa pemrograman backend dulu
