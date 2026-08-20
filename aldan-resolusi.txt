@@ -1,0 +1,6 @@
+Resolusi Aldan :
+1.Mendalami Javascript terutama DOM, OOP, API, DLL
+2.Belajar menggunakan React JS
+3.Belajar Git dan Github
+4.Menghatamkan menjadi FrontEnd sejati
+5.mulai belajar Database
