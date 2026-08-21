@@ -2,3 +2,4 @@ Ide Website :
 
 1.Web tentang cuaca
 2.Web yang berhubungan dengan API
+  *bikin web movie search tanpa ai
