@@ -4,3 +4,4 @@ Ide Website :
 2.Web yang berhubungan dengan API
   *bikin web movie search tanpa ai
 3.Web application
+  *web note localstorage
