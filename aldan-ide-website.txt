@@ -6,3 +6,4 @@ Ide Website :
   *web pengingat minum air
   *web note localstorage
   *web game tic tac toe
+4.Web dengan tailwind dan reactjs
